@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QLAB_2/QLAB_2.csproj" />
+  <Project Path="QLAB_2.Tests/QLAB_2.Tests.csproj" />
+</Solution>
